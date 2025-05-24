@@ -12,7 +12,7 @@ where he talked about the more abstract side of graph traversial, and I wanted t
 that there would be no way in two weeks that I would be able to 1) learn a new language, and 2) implement something I felt was computationally complicated.
 However, despite getting worried after spending 5 days just learning the syntax of rust, I was able to implement the rest of the program in only 5 days. Here is my demo/ explaination video. 
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/jwj315Q_qKs?si=0_YjS8Ki4Esg6ZL4))
+[Software Demo Video](https://youtu.be/jwj315Q_qKs?si=0_YjS8Ki4Esg6ZL4)
 
 # Development Environment
 
